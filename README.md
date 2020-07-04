@@ -1,3 +1,3 @@
 # Text-Summarizer-Flask-Deployment
 
-Heroku App Link: 
+Heroku App Link: https://textsummarizerapp.herokuapp.com/
