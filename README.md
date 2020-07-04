@@ -50,7 +50,7 @@ loyment-Heroku/blob/master/static/p1.jpg)
 
 # License
 
-![Alt Text](https://github.com/DheerajKumar97/Customer-Life-Time-Value-Prediction-Flask-Deployment--Heroku/blob/master/CLTP%20Analysis%20Output/MIT%20license.jpg)
+![Alt Text](https://github.com/DheerajKumar97/Text-Summarizer-Flask-Deployment/blob/master/licence.jpg)
 <br>
 CopyRight 2020 DHEERAJ KUMAR
 
