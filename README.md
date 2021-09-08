@@ -4,7 +4,7 @@
 # Deployment Demo
 
 ![Alt Text](https://github.com/DheerajKumar97/Text-Summarizer-Flask-Deployment/blob/master/Text%20Summarizer.gif)
-<br>
+<br><br>
 # Table Of Contents
 - [Project Goal](#Project-Goal)
 - [Project Motivation](#Project-Motivation)
